@@ -1,4 +1,4 @@
-# Technical Test: QA Manual Engineer
+# Technical Test: QA Engineer
 
 ## 📌 Introduction
 This test is designed to evaluate your analytical thinking, testing logic, and documentation quality. The object of this test is the **"Sign Up, Login and Post"** feature on the Twitter (X) application.
@@ -58,4 +58,5 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 1. Complete this task in **Google Sheets** link. Separate the Test Case and Bug sheet.
 2. Send the file via email to `alif.m@lif.id and stanley.y@lif.id` with the subject line:
    `QA_Engineer_Test_FullName`
+
 
