@@ -6,7 +6,7 @@ This test is designed to evaluate your analytical thinking, testing logic, and d
 ---
 
 ## 🛠 Tasks
-You are required to perform a quality analysis on these features. The task is divided into three sections and must be submitted within **2 Days** after receiving this email.
+You are required to perform a quality analysis on these features. The task is divided into three sections:
 
 ### 1. Test Case Creation
 Create a minimum of **10 Test Cases** covering:
@@ -55,8 +55,8 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 ---
 
 ## 📬 How to Submit
-1. Complete this task in **Google Sheets** link. Separate the Test Case and Bug sheet.
-2. Send the file via email to `alif.m@lif.id and stanley.y@lif.id` with the subject line:
-   `QA_Engineer_Test_FullName`
+1. Complete this task in **Google Sheets** with Public link. Separate the Test Case and Bug sheet. 
+2. Send the repository link to us.
+
 
 
