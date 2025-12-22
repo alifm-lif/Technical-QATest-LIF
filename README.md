@@ -41,9 +41,9 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 * **Expected Result:** [What should have happened?]
 * **Environment:** [e.g., iOS 17.2 / Website]
 
-| ID | Title | Steps to Reproduce | Actual Result | Expected Result |Environment|
-|:---|:---|:---|:---|:---|:---|
-| BUG-001 | input text more 280 characters | 1. Open composer<br>2. Input text more 280 characters  | Can still input characters when exceeding 280 characters. | If input text more than 280 characters, we cannot input more characters.| Website |
+| ID | Title |Severity| Steps to Reproduce | Actual Result | Expected Result |Environment|
+|:---|:---|:---|:---|:---|:---|:---|
+| BUG-001 | Input text more 280 characters | Medium | 1. Open composer<br>2. Input text more 280 characters  | Can still input characters when exceeding 280 characters. | If input text more than 280 characters, we cannot input more characters.| Website |
 
 ---
 
@@ -58,3 +58,4 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 1. Complete this task in **Google Sheets** link. Separate the Test Case and Bug sheet.
 2. Send the file via email to `alif.m@lif.id and stanley.y@lif.id` with the subject line:
    `QA_Engineer_Test_FullName`
+
