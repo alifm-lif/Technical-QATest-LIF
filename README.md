@@ -26,8 +26,8 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 ## 📝 Submission Format (Template)
 
 ### A. Test Case Table
-| ID | Scenario Description | Steps to Execute | Expected Result | Type (Pos/Neg/UI) |
-|:---|:---|:---|:---|:---|
+| ID | Scenario Description | Steps to Execute | Expected Result |Device (Website/Mobile) | Type (Pos/Neg/UI) |
+|:---|:---|:---|:---|:---|:---|
 | TC-001 | Post tweet with < 280 characters | 1. Open composer<br>2. Input text "Hello"<br>3. Click 'Post' | Tweet appears on the timeline | Positive |
 
 ### B. Bug Report Template
@@ -57,6 +57,7 @@ Create **2 Bug Reports** based on your findings (or simulated scenarios if no re
 ## 📬 How to Submit
 1. Complete this task in **Google Sheets** with Public link. Separate the Test Case and Bug sheet. 
 2. Send the repository link to us.
+
 
 
 
